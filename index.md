@@ -15,3 +15,7 @@ var myVar = "Hello, world!"
 ``` python
 a = sqrt 3
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
